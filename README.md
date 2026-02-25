@@ -1,4 +1,4 @@
-# generador de prompts para imagenes
+# Generador de prompts para imagenes
 
 ## Qué hace
 Mediante un formulario creado en v0 enviamos los requerimientos a open router para generar un prompt 
